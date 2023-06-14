@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 04/06/2023
+### DATE: 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -36,8 +36,8 @@
 ![img](exp10_empd2.png)
 ![img](exp10_empd3.png)
 
-### Name: SATHISH R
-### Register Number: 212222100048
+### Name: AJAY ASWIN M
+### Register Number: 212222240005
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
